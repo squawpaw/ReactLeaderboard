@@ -1,0 +1,5 @@
+following along here:
+https://www.twilio.com/blog/2015/08/setting-up-react-for-es6-with-webpack-and-babel-2.html
+
+used this page to figure out how to trasnpile SASS via webpack:
+https://www.jonathan-petitcolas.com/2015/05/15/howto-setup-webpack-on-es6-react-application-with-sass.html
